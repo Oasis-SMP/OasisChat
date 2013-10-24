@@ -1,6 +1,6 @@
 name: OasisChat
 main: net.charter.orion_pax.OasisChat.OasisChat
-version: 2.0 beta
+version: 2.10242013_B1511
 description: A player/staff chat system for bukkit servers!
 author: Paxination
 commands:
@@ -23,7 +23,7 @@ commands:
     permission-message: You don't have permissions for <permission>
     
   staff:
-    description:  Staff list
+    description: Lists all online staff members
     usage:
     permission: oasischat.staff.staff
     permission-message: You don't have permissions for <permission>
@@ -54,12 +54,12 @@ commands:
     
   partyinfo:
     description: Gives Staff info about a partychat.
-    usage: "Usage: /<command> <partychatname> (partychat name not needed if allready in party spy!)"
+    usage: "Usage: /<command> <partychatname> (party name not needed if already in party spy!)"
     permission: oasischat.staff.partyinfo
     permission-message: You don't have permissions for <permission>
     
   oasischat:
-    description:  Addition commands for oasischat!
+    description:  Additional commands for OasisChat!
     permission: oasischat.staff.oasischat
     permission-message: You don't have permissions for <permission>
     
