@@ -3,6 +3,6 @@
 ingameconfigurable:
   adminchatcolor: '&b'
   partychatcolor: '&a'
-  staffnamechatcolor: '&f'
+  staffnamechatcolor: '&2'
   playernamechatcolor: '&f'
 
